@@ -1,0 +1,7 @@
+// JSON schema for babelrc files
+{
+  "presets": [
+    "@babel/preset-react",
+    "babel-preset-gatsby"
+  ]
+}
